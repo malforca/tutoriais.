@@ -39,6 +39,7 @@ git reset --soft/--mixed/--hard + id do commit<br>
 git branch<br>
 git branch teste (criando um novo branch)<br>
 git checkout teste (mudando de branch)<br>
+git checkout -b feature/teste (criando uma nova branch branch)<br>
 git branch -D teste (deletando o branch local teste)<br>
 git push origin :teste (deletando branch teste no github)<br>
 ### Diferença entre Arquivos
