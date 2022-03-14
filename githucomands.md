@@ -25,6 +25,7 @@ git log<br>
 git log --online (verifica o nome do commit e numero)<br>
 git log --online --graph --all (verifica os merge graficamente)<br>
 git log --graph --all<br>
+git log --decorate -n 10 --oneline --graph --all
 ### Conceitos
 - **branch**: verções diferente do seu sistema<br>
 - ex: a branch principal do seu sistema e a **master** mais, vc pode ter outras<br>
